@@ -16,7 +16,7 @@ const assignmentRoutes = require('./routes/assignments');
 const app = express();
 
 app.use(cors({
-    origin: ['https://military-asset-management-system-delta.vercel.app', 'http://localhost:5173', 'http://localhost:5174'],
+    origin: ['https://military-asset-management-system-rosy.vercel.app', 'http://localhost:5173', 'http://localhost:5174'],
     credentials: true,
 }));
 app.use(express.json());

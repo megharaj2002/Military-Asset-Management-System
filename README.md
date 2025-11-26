@@ -41,22 +41,6 @@ A full-stack, role-based web application for managing military assets including 
 - **Authentication**: JSON Web Tokens (JWT) 9.0.2
 - **Password Hashing**: bcrypt 6.0.0
 - **Environment**: dotenv 17.2.0
-- **Logging**: Morgan 1.10.1
-- **CORS**: cors 2.8.5
-
-### Development Tools
-- **Backend Dev Server**: Nodemon 3.1.10
-- **Linting**: ESLint 9.30.1
-- **Code Quality**: Prettier (configured)
-
----
-
-## 📸 Screenshots
-
-### Login Page
-Modern split-screen design with military branding and glassmorphic elements.
-
-### Admin Dashboard
 Full access to all features including inventory overview, purchases, transfers, assignments, and audit logs.
 
 ### Logistics Dashboard
